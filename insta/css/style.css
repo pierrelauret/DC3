@@ -1,0 +1,11 @@
+body {margin:0; padding:0;}
+
+ul {
+	font-family:arial, sans-serif;
+	
+}
+li {
+	list-style:none;
+	font-size:50pt;
+}
+input[type="text"]{ border-radius:5px; width:400px; height:30px; border:1px solid #333333;}
